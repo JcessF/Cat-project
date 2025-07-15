@@ -39,7 +39,7 @@ public static void main ( String [] args) {
 		} 
 		else if(gatosx.equals(gatos2)) {
 			 
-				System.out.println("  /\\_____/\\  ");
+			System.out.println("  /\\_____/\\  ");
 		        System.out.println(" /  o   o  \\ ");
 		        System.out.println("( ==  ^  == )");
 		        System.out.println(" )         ( ");
@@ -49,13 +49,13 @@ public static void main ( String [] args) {
 		}
 		else if(gatosx.equals(gatos3)) {
 			 
-				System.out.println("   /\\_/\\  ");
+			System.out.println("   /\\_/\\  ");
 		        System.out.println("  ( o.o ) ");
 		        System.out.println("   > ^ <  ");
 		       
 		} 
 		else if (gatosx.equals(gatos4)) {
-			System.out.println("   /\\_____/\\");
+		System.out.println("   /\\_____/\\");
 	        System.out.println("  /  o   o  \\");
 	        System.out.println(" /     ^     \\");
 	        System.out.println("(   (---)    )");
